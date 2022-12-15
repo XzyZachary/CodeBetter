@@ -1,3 +1,5 @@
+个人学习记录！！！！
+
 Dynamic Programming总结
 
      1.确定dp数组（dp table）以及下标的含义
